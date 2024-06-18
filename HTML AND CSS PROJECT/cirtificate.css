@@ -1,0 +1,118 @@
+*{
+    /* font-family: sans-serif; */
+}
+.cor{
+    height: 700px;
+    width: 700px;
+    background-image: url("rrr.png");
+    background-size: cover;
+}
+.line{
+    font-size: 7rem;
+    margin-left: 8rem;
+    margin-top: -49rem;
+}
+.cir{
+    margin-left: 13rem;
+    margin-top: -37rem;
+    font-size: 3rem;
+}
+.cir p{
+    font-size: 1.5rem;
+    margin-top: -0.2rem;
+    margin-left: 3rem;
+}
+.cir p1{
+    font-size: 1.2rem;
+}
+.cir p2{
+    
+}
+.cir p3{
+    margin-left: -28rem;
+}
+.cir p4{
+    margin-left: -2.5rem; 
+}
+.cir p5{
+    margin-left: -1.6rem; 
+}
+.cir p6{
+    margin-left: 4rem; 
+}
+   
+    
+.text{
+    height: 200px;
+    width: 550px;
+    font-size: 1.6rem;
+}
+.last
+{
+    height: 150px;
+    width: 380px;
+    /* background-color: red; */
+    margin-left: -9rem;
+    margin-top: 1rem;
+   
+}
+.first{
+    height: 150px;
+    width: 380px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.second{
+    height: 70px;
+    width: 130px;
+    background-image: url("Danish\ sign.png");
+    background-size: cover;
+    margin-top: -7.5rem;
+    margin-left: 28rem;
+}
+.nic{
+    font-size: 1rem;
+    margin-left: 20rem;
+    margin-top: -4rem;
+}
+.nic p7{
+    margin-left: 2.2rem;
+}
+.iaf-s{
+    height: 80px;
+    width: 130px; 
+}
+.iso-s{
+    height: 100px;
+    width: 120px; 
+}
+
+.alpha-s{
+    height: 200px;
+    width: 200px; 
+    margin-top: -4rem;
+}
+.line1{
+    margin-left: 1.9rem;
+    border-left: 5px solid black;
+    height: 474px;
+    position: absolute;
+    margin-top: -2rem;
+}
+.line2{
+    font-size: 7rem;
+    margin-left: 8rem;
+    margin-top: 22.5rem;
+}
+.line3{
+    margin-left: 1.9rem;
+    border-left: 5px solid black;
+    height: 474px;
+    position: absolute;
+    margin-left: 41.6rem;
+    margin-top: -7rem;
+}
+
